@@ -1,4 +1,4 @@
 interface:
   display_name: "野生理论生成器"
-  short_description: "把日常小事写成一本正经的离谱学说，最后落回一点真实的生活道理"
-  default_prompt: "用 $wild-theory 把“出门散步”写成一个很扯但最后有点道理的理论。"
+  short_description: "把日常小事发展成有主张、有理由、能实践的民间理论，夸张但自洽"
+  default_prompt: "用 $wild-theory 把‘出门散步’写成一个有生活依据、能自圆其说，又有点好笑的理论。"
